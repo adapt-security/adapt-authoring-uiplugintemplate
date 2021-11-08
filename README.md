@@ -1,4 +1,7 @@
 #  adapt-authoring-uiplugintemplate
+
+_Please also see [adapt-authoring-templatemodule](https://github.com/adapt-security/adapt-authoring-templatemodule) for more general module-writing tips._
+
 This is a template repository for extending the Adapt authoring tool UI.
 
 ## Usage
