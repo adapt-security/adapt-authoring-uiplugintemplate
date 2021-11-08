@@ -1,0 +1,10 @@
+{
+  "name": "adapt-authoring-uimoduletemplate",
+  "version": "1.0.0",
+  "description": "Template module for creating UI plugins",
+  "homepage": "https://github.com/taylortom/adapt-authoring-uiplugintemplate",
+  "main": "index.js",
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring-core.git"
+  }
+}
